@@ -2,7 +2,7 @@
 name = "rust-tdd-dev"
 version = "0.1.0"
 edition = "2021"
-authors ="Juan Milkah <juanmilkah@gmail.com>"
+authors =["JuanMilkah <juanmilkah@gmail.com>,"]
 decription ="Test driven Development"
 license= "MIT"
 
